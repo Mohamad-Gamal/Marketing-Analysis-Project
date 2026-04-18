@@ -1,4 +1,5 @@
 # Marketing-Analysis-Project
+<img width="1288" height="720" alt="Screenshot-Dashboard" src="https://github.com/user-attachments/assets/36a79874-7fc7-4d77-8fec-754ef11baa82" />
 Meta Ad Performance Analysis Dashboard
 Project Overview
 Built an end-to-end analytics solution to track and evaluate the performance of paid advertising campaigns on Facebook and Instagram. The dashboard provides clear visibility into reach, engagement, conversions, and budget efficiency to help the marketing team make smarter decisions.
